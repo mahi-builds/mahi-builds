@@ -10,7 +10,7 @@
 - 📍 ECE student specializing in Data Science
 - 🤖 Building ML systems for healthcare & signal processing
 - 🔌 Interested in Embedded Systems & IoT
-- 📊 Exploring finance + tech applications
+- 📊 Exploring the intersection health, finance, fashion and tech
 - 🌱 Currently improving embedded AI & deployment skills
 
 ---
@@ -61,9 +61,6 @@ Deep learning model for speech emotion classification.
 ✋ **EMG Gesture Recognition**  
 Signal processing & ML classification for hand gestures.
 
-📈 **Stock Investment Practice Platform**  
-Website helping beginners simulate stock investments.
-
 🔌 **ESP32-based IoT Projects**  
 Real-time hardware + ML integration systems.
 
@@ -78,9 +75,8 @@ Real-time hardware + ML integration systems.
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (Add link)
-- Medium/Blog: (Add link)
-- Portfolio: (Add link)
+- LinkedIn: https://www.linkedin.com/in/manasvi-bhargava-5b263a283/
+- Medium/Blog: https://medium.com/@aGirIinCircuits
 
 ---
 
