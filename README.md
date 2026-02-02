@@ -10,7 +10,7 @@
 - 📍 ECE student specializing in Data Science
 - 🤖 Building ML systems for healthcare & signal processing
 - 🔌 Interested in Embedded Systems & IoT
-- 📊 Exploring the intersection health, finance, fashion and tech
+- 📊 Exploring the intersection of health, finance, fashion and tech
 - 🌱 Currently improving embedded AI & deployment skills
 
 ---
