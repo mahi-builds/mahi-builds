@@ -22,6 +22,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-HDL-blue?style=for-the-badge)
 
 ### 🤖 Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -29,6 +30,12 @@
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+### ⚡ VLSI, FPGA & Circuit Tools
+![LTspice](https://img.shields.io/badge/LTspice-Circuit%20Simulation-blue?style=for-the-badge)
+![ModelSim](https://img.shields.io/badge/ModelSim-FPGA-orange?style=for-the-badge)
+![Vitis](https://img.shields.io/badge/Xilinx%20Vitis-FPGA-green?style=for-the-badge)
+
 
 ### 🌐 Web & Deployment
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
